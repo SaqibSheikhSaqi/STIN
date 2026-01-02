@@ -30,9 +30,6 @@ The design is inspired by **O-RAN modular security principles**, extended toward
 ## 🧪 Experimental Setup
 Publicly accessible mission metadata is used to emulate realistic satellite data flows. Controlled attacks simulate fake receivers and block tampering to evaluate system resilience and trust degradation.
 
-## 🚀 Significance
-Results demonstrate that combining **O-RAN-inspired programmability** with **quantum-safe trust mechanisms** provides a scalable, future-proof foundation for secure, interoperable, and intelligent **STIN deployments in 6G networks**.
-
 ## 📌 Use Case
 - Secure satellite–ground data exchange  
 - Inter-operator trust management  
